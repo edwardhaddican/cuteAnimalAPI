@@ -47,26 +47,26 @@ const foxes = {
 }
 
 const otters = {
-  1: "",
-  2: "",
-  3: "",
-  4: "",
-  5: "",
-  6: "",
-  7: "",
-  8: "",
-  9: "",
-  10: "",
-  11: "",
-  12: "",
-  13: "",
-  14: "",
-  15: "",
-  16: "",
-  17: "",
-  18: "",
-  19: "",
-  20: ""
+  1: "https://i.ytimg.com/vi/QXtC0jOVZNs/hqdefault.jpg",
+  2: "https://static.boredpanda.com/blog/wp-content/uploads/2019/12/cute-baby-sea-otters-36-5e05c4b345ef3__700.jpg",
+  3: "https://external-preview.redd.it/0dO9_l_O4UYhlRcb33vQGvKs1BS161cEvmMXTUd8qjo.jpg?auto=webp&s=e5e1fde15bed3ccb51b839c5dda298d229a29dad",
+  4: "https://media2.s-nbcnews.com/i/MSNBC/Components/Video/__NEW/tdy_news_otter_151221.jpg",
+  5: "https://image.shutterstock.com/image-photo/otter-lutra-her-cuteness-funny-260nw-616296812.jpg",
+  6: "https://i.imgur.com/rKiYSnZ.jpg",
+  7: "https://www.ngi.org.uk/wp-content/uploads/2016/08/The-four-otters-from-left-Ash-Tod-Pip-and-Sam-Copyright-Ian-Greneholt-830x506.jpg",
+  8: "https://www.tehcute.com/pics/201206/help-name-this-cute-baby-otter-big.jpg",
+  9: "https://static.boredpanda.com/blog/wp-content/uploads/2019/12/5e04ab9720e95_nrh43dai3hfy__700.jpg",
+  10: "https://c8.alamy.com/comp/R8GHJR/baby-otter-R8GHJR.jpg",
+  11: "https://www.rd.com/wp-content/uploads/2020/04/GettyImages-74582273.jpg",
+  12: "https://i.ytimg.com/vi/b4ELyQQp_yU/maxresdefault.jpg",
+  13: "https://static.boredpanda.com/blog/wp-content/uploads/2019/12/cute-baby-sea-otters-26-5e04a9e4eafe0__700.jpg",
+  14: "https://pbs.twimg.com/profile_images/869096869/Otter-19_400x400.jpg",
+  15: "https://img.scoop.it/l_AqwYXk-p2r-zmeNzWg3Tl72eJkfbmt4t8yenImKBVvK0kTmF0xjctABnaLJIm9",
+  16: "https://i.imgur.com/rbJbHFj.png",
+  17: "https://i.chzbgr.com/full/2879920384/h27FC07C3/pick-me-im-cuuuutttttte",
+  18: "https://i.imgur.com/KNntIb4.jpg",
+  19: "https://static.boredpanda.com/blog/wp-content/uploads/2019/12/5e04acb6c3639_nxqr111ddqw11__700.jpg",
+  20: "https://static.boredpanda.com/blog/wp-content/uploads/2019/12/B2KybtIpVHj-png__700.jpg"
 }
 
 const beagles = {
