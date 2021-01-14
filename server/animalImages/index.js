@@ -151,26 +151,16 @@ const bears = {
 }
 
 const hippos = {
-  1: "",
-  2: "",
-  3: "",
-  4: "",
-  5: "",
-  6: "",
-  7: "",
-  8: "",
-  9: "",
-  10: "",
-  11: "",
-  12: "",
-  13: "",
-  14: "",
-  15: "",
-  16: "",
-  17: "",
-  18: "",
-  19: "",
-  20: ""
+  1: "https://static.boredpanda.com/blog/wp-content/uploads/2017/05/cute-baby-hippos-6-590841d1ae669__700.jpg",
+  2: "https://static.boredpanda.com/blog/wp-content/uploads/2017/05/cute-baby-hippos-4-59082b36dcfc2__700.jpg",
+  3: "https://i.redd.it/aoeaz8cmcyp31.jpg",
+  4: "https://i2.wp.com/metro.co.uk/wp-content/uploads/2018/10/sei_33120055-4fe3.jpg?quality=90&strip=all&zoom=1&resize=540%2C359&ssl=1",
+  5: "https://i.pinimg.com/originals/9a/83/02/9a8302ed59a2f0a9a1ae9c0be8dac958.jpg",
+  6: "https://cdn.images.express.co.uk/img/dynamic/galleries/517x/26132.jpg",
+  7: "https://sbly-web-prod-shareably.netdna-ssl.com/wp-content/uploads/2017/05/11134044/baby_hippos_featured.jpg",
+  8: "https://losangle.com/wp-content/uploads/2019/06/Cute-baby-hippos-8.jpg",
+  9: "https://i.rmbl.ws/s8/1/G/O/v/t/GOvta.OvCc.1-small-Cute-Baby-Hippo-Takes-First.jpg",
+  10: "https://i.pinimg.com/originals/a5/33/e7/a533e7fd83a1456baf73ca8befde7acf.jpg",
 }
 
 const cats = {
@@ -196,4 +186,19 @@ const cats = {
   20: ""
 }
 
-const arrOfAnimalPicsObjects = [elephants, foxes, otters, beagles, aussies, hippos, bears, cats]
+const turtles = {
+  1: "https://i.pinimg.com/originals/5c/a0/f9/5ca0f91de8f240cf690535db7401e76f.jpg",
+  2: "https://drscdn.500px.org/photo/47773906/m%3D900/v2?sig=502c0a42a045f7cf961fcf803ef470526f2ace03c842c63a7ee27dc6e48828f0",
+  3: "https://petorb.com/wp-content/uploads/2014/06/yaaaaa.jpg",
+  4: "https://s1.dmcdn.net/v/OZSZU1RbKn61Uxs7y/x720",
+  5: "https://ww2.kqed.org/science/wp-content/uploads/sites/35/2016/01/Baby_turtle_swims.jpg",
+  6: "https://cutewallpaper.org/21/turtle-wallpaper-hd/Newborn-Turtles-Wallpapers-Hd-Cute-Baby-Turtles,-Hd-.jpg",
+  7: "https://i.pinimg.com/474x/bf/27/ac/bf27ac4f1e55e49e18cda88c95e188ad.jpg",
+  8: "https://i.pinimg.com/originals/51/a6/82/51a682ae88f34be8d8443f5d3b91c026.jpg",
+  9: "https://drscdn.500px.org/photo/4171562/m%3D900/v2?sig=3fb433c331c79fe98b8cb468391ed13aa3cbee85d7106c4320bb08296cddb0ca",
+  10: "https://i.pinimg.com/564x/d6/f7/78/d6f7781d66d52c91324139d7ebbbc361.jpg",
+  11: "https://cache.desktopnexus.com/thumbseg/1981/1981581-bigthumbnail.jpg",
+  12: "https://i.pinimg.com/originals/de/48/32/de4832d464ecc2c7ae9aa4658eac942d.jpg",
+}
+
+const arrOfAnimalPicsObjects = [elephants, foxes, otters, beagles, aussies, hippos, bears, cats, turtles]
