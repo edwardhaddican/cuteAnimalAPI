@@ -128,26 +128,26 @@ const deer = {
 }
 
 const bears = {
-  1: "",
-  2: "",
-  3: "",
-  4: "",
-  5: "",
-  6: "",
-  7: "",
-  8: "",
-  9: "",
-  10: "",
-  11: "",
-  12: "",
-  13: "",
-  14: "",
-  15: "",
-  16: "",
-  17: "",
-  18: "",
-  19: "",
-  20: ""
+  1: "https://i.pinimg.com/originals/b6/fb/eb/b6fbebfcb41410e5f2de0bd9d88e741f.jpg",
+  2: "https://i.pinimg.com/originals/80/73/bb/8073bb8d2ec7940c230829227695c98c.jpg",
+  3: "https://www.earthtouchnews.com/media/734888/Baby_bear_2014-11-25.jpg",
+  4: "https://static.boredpanda.com/blog/wp-content/uploads/2016/02/cute-baby-polar-bear-day-photography-14__880.jpg",
+  5: "https://i.pinimg.com/originals/05/f7/52/05f75215c8bd9be9f404b49ab3d72907.jpg",
+  6: "https://i.ytimg.com/vi/WknqFHdMXIA/maxresdefault.jpg",
+  7: "https://i.chzbgr.com/full/8166155520/h16081D2E/is-there-berries-for-baby-bear",
+  8: "https://i.etsystatic.com/10229826/r/il/d9ab1d/1331861745/il_570xN.1331861745_r7wt.jpg",
+  9: "https://lh3.googleusercontent.com/proxy/Q2fmuynVQ0WnTKTmYD2hM304kZZ6Ci6Y0cXuyvzEQDmN8yXKxLVk28oe8FbzKkTxqWnYao0EGTGy3IRXvXCtYUX7csYCmDXxUX_kpVmTJn_CqRYhizxRV1W5UX87hVqy0-SKAvtVC0DLtbfo5X_oPWoO2bRl6m13kletJf7qKYue1gaaWu77I06gMOZOyrtA",
+  10: "https://i.pinimg.com/originals/80/73/bb/8073bb8d2ec7940c230829227695c98c.jpg",
+  11: "https://c4.wallpaperflare.com/wallpaper/607/885/163/adorable-animal-baby-bear-wallpaper-preview.jpg",
+  12: "https://www.superbearblog.com/uploads/cgblog/id143/article-2105420-11DF6025000005DC-543_964x580.jpg",
+  13: "https://www.canadiangeographic.ca/sites/cgcorp/files/images/web_articles/blog/bear_derek_kyostia2.jpg",
+  14: "https://dnl7t01l0fo05.cloudfront.net/fr/wp-content/uploads/sites/2/2016/09/maman-ours-12.jpg",
+  15: "https://i.pinimg.com/originals/7e/82/56/7e8256299e95eee33ed008a08767db08.jpg",
+  16: "https://c4.wallpaperflare.com/wallpaper/802/63/832/bear-baby-bear-cute-grass-wallpaper-preview.jpg",
+  17: "https://qph.fs.quoracdn.net/main-qimg-df90f8c75d5dfa9b6861857290fa3c19.webp",
+  18: "https://2.bp.blogspot.com/-xV0RZQMnjhE/T1rWHqnCQWI/AAAAAAAAtUA/akRSEggxokM/s1600/Mother+Bear+-+001.jpg",
+  19: "https://i.insider.com/5cdf07ba021b4c1d503ef0c3?width=600&format=jpeg&auto=webp",
+  20: "https://cutewallpaper.org/21/baby-bear-wallpaper/Cute-Baby-Polar-Bear-Wallpaper-Metro-Wallpapers.jpg"
 }
 
 const hippos = {
