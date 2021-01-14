@@ -202,26 +202,12 @@ const turtles = {
 }
 
 const bats = {
-  1: "",
-  2: "",
-  3: "",
-  4: "",
-  5: "",
-  6: "",
-  7: "",
-  8: "",
-  9: "",
-  10: "",
-  11: "",
-  12: "",
-  13: "",
-  14: "",
-  15: "",
-  16: "",
-  17: "",
-  18: "",
-  19: "",
-  20: ""
+  1: "https://static.boredpanda.com/blog/wp-content/uploads/2017/10/adorable-bats-fb18-png__700.jpg",
+  2: "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fstatic.onecms.io%2Fwp-content%2Fuploads%2Fsites%2F20%2F2016%2F10%2Fbaby-bats-wp.jpg&q=85",
+  3: "https://miro.medium.com/max/2800/0*QpmwIKbedN51V7nv",
+  4: "https://i.pinimg.com/originals/bc/6f/7f/bc6f7f0b634cbf747857fb3c59cecc96.jpg",
+  5: "https://d1muy2ct2wkbaz.cloudfront.net/profile/f/2/newsflare_dLUJvW6qcX50ka25FcmuShm25V_400.jpg",
+  6: "https://sire-ngcbg-thumbs.fichub.com/NGP_NatGeo_GS/708/724/NW_DLY_ds1802001-201_baby-fruit-bat-rescue-attempt-animals-vin_op_p181417_UK~~~~~uk~mux~~1.jpg",
 }
 
 const extra = {
