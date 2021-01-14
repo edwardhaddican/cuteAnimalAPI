@@ -24,26 +24,23 @@ const elephants = {
 }
 
 const foxes = {
-  1: "",
-  2: "",
-  3: "",
-  4: "",
-  5: "",
-  6: "",
-  7: "",
-  8: "",
-  9: "",
-  10: "",
-  11: "",
-  12: "",
-  13: "",
-  14: "",
-  15: "",
-  16: "",
-  17: "",
-  18: "",
-  19: "",
-  20: ""
+  1: "https://i.ytimg.com/vi/YA7W9ff6X8g/maxresdefault.jpg",
+  2: "https://static.boredpanda.com/blog/wp-content/uploads/2016/05/cute-baby-foxes-cubs-17-574436be67482__880.jpg",
+  3: "https://www.canadiangeographic.ca/sites/cgcorp/files/images/web_articles/blog/1_darla_galley_22441459.jpg",
+  4: "https://static.boredpanda.com/blog/wp-content/uploads/2016/05/cute-baby-foxes-2-574436930d433__880.jpg",
+  5: "https://i.redd.it/3ymbizyaossy.jpg",
+  6: "https://cdn.wallpapersafari.com/95/10/76J0gD.jpg",
+  7: "https://cdn.hswstatic.com/gif/arctic-fox-1.jpg",
+  8: "https://cdn.wallpapersafari.com/1/87/HqGIZS.jpg",
+  9: "https://24.media.tumblr.com/9afdb6ce7e24d9b245c8ff677f70ba19/tumblr_n486fwxIOI1tp0vo3o1_500.jpg",
+  10: "https://wallpapercave.com/wp/wp5461659.jpg",
+  11: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_1OwcsnHFrJpe8GTbnQewBoUB3qZGeBfboA&usqp=CAU",
+  12: "https://www.happiest.net/wp-content/uploads/2018/12/arctic-foxes-720x400.jpg",
+  13: "https://i.pinimg.com/originals/aa/6c/89/aa6c893f24d78f5ae063273fbdb2d62e.jpg",
+  14: "https://i.pinimg.com/originals/4a/15/1f/4a151fb32ea95420211afaa9500fef9c.jpg",
+  15: "https://nypost.com/wp-content/uploads/sites/2/2015/06/cute_baby_foxes-1.jpg?quality=80&strip=all&w=1024",
+  16: "https://favogram.com/wp-content/uploads/2015/09/Very-Cute-Baby-Fox-1-500x333.jpg",
+  17: "https://amityisland.files.wordpress.com/2014/11/qtfox.jpg",
 }
 
 const otters = {
@@ -70,6 +67,29 @@ const otters = {
 }
 
 const beagles = {
+  1: "https://i.ytimg.com/vi/R__1rgcRvYM/hqdefault.jpg",
+  2: "https://i.pinimg.com/originals/69/3c/3f/693c3f6d2711e4009fa32115ab51d151.jpg",
+  3: "https://i.pinimg.com/originals/a4/2b/b4/a42bb4b30f1fbd8d3afb4409571f6f37.jpg",
+  4: "https://40.media.tumblr.com/eea2f882ec08255e40cecaf8ca1d4543/tumblr_nmxjbjIK141qi4ucgo1_500.jpg",
+  5: "https://www.wallpapergeeks.com/wp-content/uploads/2014/02/Cute-Beagle-Hound-Puppy-Wallpaper-800x600.jpg",
+  6: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsI0markhCbJAm_L1O9zT0Brq7fXUTJAGB9A&usqp=CAU",
+  7: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1-_lAcga0WcjqFvFluzpC7_foKbWmJQakgA&usqp=CAU",
+  8: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRvFup_GtoZvYy_BIDPaRr00qOLP4r_dnA7YQ&usqp=CAU",
+  9: "https://www.dogtime.com/assets/uploads/2016/09/beagle-puppy-5-e1568913038666-1280x720.jpg",
+  10: "https://cf.ltkcdn.net/dogs/images/slide/185060-849x565-adorable-trio-beagle-puppies.jpg",
+  11: "https://25.media.tumblr.com/e215e74da07b34476e733333d81c14c1/tumblr_mixvg4gfWR1qjcdw9o1_500.jpg",
+  12: "https://media1.popsugar-assets.com/files/thumbor/CxAsO7XXZ9aeLxRXfJJaNlEuhnI/fit-in/2048xorig/filters:format_auto-!!-:strip_icc-!!-/2019/08/05/070/n/44701584/f395e31a13bad60d_adorable-animal-animal-photography-1000602/i/Related.jpg",
+  13: "https://image.shutterstock.com/image-photo/small-cute-beagle-puppy-dog-260nw-529323184.jpg",
+  14: "https://dogtime.com/assets/uploads/gallery/beagle-puppies/beagle-puppy-1.jpg",
+  15: "https://i.pinimg.com/originals/94/90/12/949012e2a0e8bff7f7bb5b3b003d9f45.png",
+  16: "https://www.i-heart-pets.com/wp-content/uploads/2014/08/beagles-goaww.com_.jpg",
+  17: "https://dogtime.com/assets/uploads/gallery/beagle-puppies/beagle-puppy-4.jpg",
+  18: "https://www.i-heart-pets.com/wp-content/uploads/2014/08/beagles-katie-wojo.jpg",
+  19: "https://i.ytimg.com/vi/T14QnZMTPOQ/maxresdefault.jpg",
+  20: "https://i.pinimg.com/originals/87/93/34/879334cf030582d97a479985f64d6a7d.jpg"
+}
+
+const aussies = {
   1: "",
   2: "",
   3: "",
@@ -92,7 +112,7 @@ const beagles = {
   20: ""
 }
 
-const aussies = {
+const deer = {
   1: "",
   2: "",
   3: "",
