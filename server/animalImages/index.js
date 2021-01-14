@@ -164,6 +164,44 @@ const hippos = {
 }
 
 const cats = {
+  1: "https://i.pinimg.com/originals/1d/f7/06/1df706ae30095ad907b9046cdaae2db6.jpg",
+  2: "https://i.ytimg.com/vi/gUIJ-UkQsXI/maxresdefault.jpg",
+  3: "https://static.boredpanda.com/blog/wp-content/uploads/2016/08/cute-kittens-30-57b30ad41bc90__605.jpg",
+  4: "https://i.ytimg.com/vi/h1DzRHXpG7U/hqdefault.jpg",
+  5: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRHfc-tAbB2iiBDXVmla1RDMW5_CEceo8OFkQ&usqp=CAU",
+  6: "https://www.fodors.com/wp-content/uploads/2020/04/KittenAroundtheworld__HERO_shutterstock_1044443416.jpg",
+  7: "https://www.mobilecause.com/wp-content/uploads/2016/03/shutterstock_84271234.jpg",
+  8: "https://designyoutrust.com/wp-content/uploads/2017/03/7-9.jpg",
+  9: "https://lh3.googleusercontent.com/proxy/JOjRezJ5pjd6v4bufxKTRus7mfVCUrfVKMoAfQFvqgs5qgQPdo8aZ0n_I2OBUHy_pvBIeVnlD-aWLpNqg6vfYjFDb7hgLNpfXkswgqAKzHQeqE-tO7uN2dOy17AIkyaq5LmI950DHF7SeAiUmsU-iANiSy9NU1m0G8g__Vy-oRqmtcT8KMQ5KylWVJh8ZZvMVV3pjkL0aCpa7qx_G1OhWMwnnsEref32fZpo",
+  10: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTug4wPNxcFhqsl3W50S4xNC6M8MITrETtduw&usqp=CAU",
+  11: "https://image.shutterstock.com/image-photo/two-cute-kittens-cuddle-each-260nw-738354820.jpg",
+  12: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8K44TfCP3wr9nZfCbLLNDAadWeIncuZC1uA&usqp=CAU",
+  13: "https://i.pinimg.com/originals/95/63/15/956315eedf40a60820c4b453f6680166.jpg",
+  14: "https://lawrenceparkah.com/wp-content/uploads/2012/01/Cute-Kitten-kittens-16123796-1280-800.jpg",
+  15: "https://i.dailymail.co.uk/i/pix/2013/02/21/article-2281982-18258C94000005DC-583_964x590.jpg",
+  16: "https://cdn.pixabay.com/photo/2017/05/05/22/28/kitten-2288404__340.jpg",
+  17: "https://purrtacular.com/wp-content/uploads/2017/04/cutest-kittens-17.jpg",
+  18: "https://e4p7c9i3.stackpathcdn.com/wp-content/uploads/2017/03/2-12-990x649.jpg?iv=34",
+  19: "https://images6.fanpop.com/image/photos/40300000/cute-kittens-cute-kittens-40353229-4096-2466.jpg",
+  20: "https://avante.biz/wp-content/uploads/Cute-Kitten-Pictures-Wallpapers/Cute-Kitten-Pictures-Wallpapers-005.jpg"
+}
+
+const turtles = {
+  1: "https://i.pinimg.com/originals/5c/a0/f9/5ca0f91de8f240cf690535db7401e76f.jpg",
+  2: "https://drscdn.500px.org/photo/47773906/m%3D900/v2?sig=502c0a42a045f7cf961fcf803ef470526f2ace03c842c63a7ee27dc6e48828f0",
+  3: "https://petorb.com/wp-content/uploads/2014/06/yaaaaa.jpg",
+  4: "https://s1.dmcdn.net/v/OZSZU1RbKn61Uxs7y/x720",
+  5: "https://ww2.kqed.org/science/wp-content/uploads/sites/35/2016/01/Baby_turtle_swims.jpg",
+  6: "https://cutewallpaper.org/21/turtle-wallpaper-hd/Newborn-Turtles-Wallpapers-Hd-Cute-Baby-Turtles,-Hd-.jpg",
+  7: "https://i.pinimg.com/474x/bf/27/ac/bf27ac4f1e55e49e18cda88c95e188ad.jpg",
+  8: "https://i.pinimg.com/originals/51/a6/82/51a682ae88f34be8d8443f5d3b91c026.jpg",
+  9: "https://drscdn.500px.org/photo/4171562/m%3D900/v2?sig=3fb433c331c79fe98b8cb468391ed13aa3cbee85d7106c4320bb08296cddb0ca",
+  10: "https://i.pinimg.com/564x/d6/f7/78/d6f7781d66d52c91324139d7ebbbc361.jpg",
+  11: "https://cache.desktopnexus.com/thumbseg/1981/1981581-bigthumbnail.jpg",
+  12: "https://i.pinimg.com/originals/de/48/32/de4832d464ecc2c7ae9aa4658eac942d.jpg",
+}
+
+const bats = {
   1: "",
   2: "",
   3: "",
@@ -186,19 +224,27 @@ const cats = {
   20: ""
 }
 
-const turtles = {
-  1: "https://i.pinimg.com/originals/5c/a0/f9/5ca0f91de8f240cf690535db7401e76f.jpg",
-  2: "https://drscdn.500px.org/photo/47773906/m%3D900/v2?sig=502c0a42a045f7cf961fcf803ef470526f2ace03c842c63a7ee27dc6e48828f0",
-  3: "https://petorb.com/wp-content/uploads/2014/06/yaaaaa.jpg",
-  4: "https://s1.dmcdn.net/v/OZSZU1RbKn61Uxs7y/x720",
-  5: "https://ww2.kqed.org/science/wp-content/uploads/sites/35/2016/01/Baby_turtle_swims.jpg",
-  6: "https://cutewallpaper.org/21/turtle-wallpaper-hd/Newborn-Turtles-Wallpapers-Hd-Cute-Baby-Turtles,-Hd-.jpg",
-  7: "https://i.pinimg.com/474x/bf/27/ac/bf27ac4f1e55e49e18cda88c95e188ad.jpg",
-  8: "https://i.pinimg.com/originals/51/a6/82/51a682ae88f34be8d8443f5d3b91c026.jpg",
-  9: "https://drscdn.500px.org/photo/4171562/m%3D900/v2?sig=3fb433c331c79fe98b8cb468391ed13aa3cbee85d7106c4320bb08296cddb0ca",
-  10: "https://i.pinimg.com/564x/d6/f7/78/d6f7781d66d52c91324139d7ebbbc361.jpg",
-  11: "https://cache.desktopnexus.com/thumbseg/1981/1981581-bigthumbnail.jpg",
-  12: "https://i.pinimg.com/originals/de/48/32/de4832d464ecc2c7ae9aa4658eac942d.jpg",
+const extra = {
+  1: "",
+  2: "",
+  3: "",
+  4: "",
+  5: "",
+  6: "",
+  7: "",
+  8: "",
+  9: "",
+  10: "",
+  11: "",
+  12: "",
+  13: "",
+  14: "",
+  15: "",
+  16: "",
+  17: "",
+  18: "",
+  19: "",
+  20: ""
 }
 
-const arrOfAnimalPicsObjects = [elephants, foxes, otters, beagles, aussies, hippos, bears, cats, turtles]
+const arrOfAnimalPicsObjects = [elephants, foxes, otters, beagles, aussies, hippos, bears, cats, turtles, bats]
