@@ -210,6 +210,39 @@ const bats = {
   6: "https://sire-ngcbg-thumbs.fichub.com/NGP_NatGeo_GS/708/724/NW_DLY_ds1802001-201_baby-fruit-bat-rescue-attempt-animals-vin_op_p181417_UK~~~~~uk~mux~~1.jpg",
 }
 
+const muscrat = {
+  1: "https://cdn.mos.cms.futurecdn.net/rdTfmdCQf3VZrhtnDiaTUU-1200-80.jpg",
+  2: "https://cdn.britannica.com/33/75633-050-B8C7964E/cross-Muskrats-homes-rat-water-beaver-surface.jpg",
+  3: "https://bloximages.newyork1.vip.townnews.com/fredericknewspost.com/content/tncms/assets/v3/editorial/4/d1/4d1621b9-aeb3-515b-87d5-30c00b966267/5dcecf43917b9.image.jpg?resize=1200%2C777",
+  4: "https://www.thepondguy.com/images/learning_center/muskrats.jpg",
+  5: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4k01Yf6nrItUczv2yLsBLWR38RghAUtyDfQ&usqp=CAU",
+  6: "https://www.problemanimal.com/wp-content/uploads/2019/03/IllinoisWildlifeServicesInc-842493890.jpg",
+  7: "https://cdn.britannica.com/78/152578-050-FF987B54/plant-stem.jpg",
+}
+
+const beaver = {
+  1: "",
+  2: "",
+  3: "",
+  4: "",
+  5: "",
+  6: "",
+  7: "",
+  8: "",
+  9: "",
+  10: "",
+  11: "",
+  12: "",
+  13: "",
+  14: "",
+  15: "",
+  16: "",
+  17: "",
+  18: "",
+  19: "",
+  20: ""
+}
+
 const extra = {
   1: "",
   2: "",
@@ -233,4 +266,4 @@ const extra = {
   20: ""
 }
 
-const arrOfAnimalPicsObjects = [elephants, foxes, otters, beagles, aussies, hippos, bears, cats, turtles, bats]
+const arrOfAnimalPicsObjects = [elephants, foxes, otters, beagles, aussies, hippos, bears, cats, turtles, bats, muscrat, beaver]
