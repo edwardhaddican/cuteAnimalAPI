@@ -266,6 +266,6 @@ const extra = {
   20: ""
 }
 
-const arrOfAnimalPicsObjects = [elephants, foxes, otters, beagles, aussies, hippos, bears, cats, turtles, bats, muscrats, beavers]
+const arrOfAnimalPicsObjects = [elephants, foxes, otters, beagles, aussies, hippos, deer, bears, cats, turtles, bats, muscrats, beavers]
 
 export default arrOfAnimalPicsObjects

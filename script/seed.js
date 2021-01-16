@@ -531,7 +531,178 @@ async function seed() {
       title: '',
       description: '',
       photographer: '',
-      imagePath: '',
+      imagePath: 'https://i.ytimg.com/vi/R__1rgcRvYM/hqdefault.jpg"',
+      year: '',
+      category: "beagles",
+      tags: ''
+    }),
+    Animal.create({
+      title: '',
+      description: '',
+      photographer: '',
+      imagePath: 'https://i.pinimg.com/originals/69/3c/3f/693c3f6d2711e4009fa32115ab51d151.jpg',
+      year: '',
+      category: "beagles",
+      tags: ''
+    }),
+    Animal.create({
+      title: '',
+      description: '',
+      photographer: '',
+      imagePath: 'https://i.pinimg.com/originals/a4/2b/b4/a42bb4b30f1fbd8d3afb4409571f6f37.jpg',
+      year: '',
+      category: "beagles",
+      tags: ''
+    }),
+    Animal.create({
+      title: '',
+      description: '',
+      photographer: '',
+      imagePath: 'https://40.media.tumblr.com/eea2f882ec08255e40cecaf8ca1d4543/tumblr_nmxjbjIK141qi4ucgo1_500.jpg',
+      year: '',
+      category: "beagles",
+      tags: ''
+    }),
+    Animal.create({
+      title: '',
+      description: '',
+      photographer: '',
+      imagePath: 'https://www.wallpapergeeks.com/wp-content/uploads/2014/02/Cute-Beagle-Hound-Puppy-Wallpaper-800x600.jpg',
+      year: '',
+      category: "beagles",
+      tags: ''
+    }),
+    Animal.create({
+      title: '',
+      description: '',
+      photographer: '',
+      imagePath: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsI0markhCbJAm_L1O9zT0Brq7fXUTJAGB9A&usqp=CAU',
+      year: '',
+      category: "beagles",
+      tags: ''
+    }),
+    Animal.create({
+      title: '',
+      description: '',
+      photographer: '',
+      imagePath: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1-_lAcga0WcjqFvFluzpC7_foKbWmJQakgA&usqp=CAU',
+      year: '',
+      category: "beagles",
+      tags: ''
+    }),
+    Animal.create({
+      title: '',
+      description: '',
+      photographer: '',
+      imagePath: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRvFup_GtoZvYy_BIDPaRr00qOLP4r_dnA7YQ&usqp=CAU"',
+      year: '',
+      category: "beagles",
+      tags: ''
+    }),
+    Animal.create({
+      title: '',
+      description: '',
+      photographer: '',
+      imagePath: 'https://www.dogtime.com/assets/uploads/2016/09/beagle-puppy-5-e1568913038666-1280x720.jpg',
+      year: '',
+      category: "beagles",
+      tags: ''
+    }),
+    Animal.create({
+      title: '',
+      description: '',
+      photographer: '',
+      imagePath: 'https://cf.ltkcdn.net/dogs/images/slide/185060-849x565-adorable-trio-beagle-puppies.jpg',
+      year: '',
+      category: "beagles",
+      tags: ''
+    }),
+    Animal.create({
+      title: '',
+      description: '',
+      photographer: '',
+      imagePath: 'https://25.media.tumblr.com/e215e74da07b34476e733333d81c14c1/tumblr_mixvg4gfWR1qjcdw9o1_500.jpg',
+      year: '',
+      category: "beagles",
+      tags: ''
+    }),
+    Animal.create({
+      title: '',
+      description: '',
+      photographer: '',
+      imagePath: 'https://media1.popsugar-assets.com/files/thumbor/CxAsO7XXZ9aeLxRXfJJaNlEuhnI/fit-in/2048xorig/filters:format_auto-!!-:strip_icc-!!-/2019/08/05/070/n/44701584/f395e31a13bad60d_adorable-animal-animal-photography-1000602/i/Related.jpg',
+      year: '',
+      category: "beagles",
+      tags: ''
+    }),
+    Animal.create({
+      title: '',
+      description: '',
+      photographer: '',
+      imagePath: 'https://image.shutterstock.com/image-photo/small-cute-beagle-puppy-dog-260nw-529323184.jpg',
+      year: '',
+      category: "beagles",
+      tags: ''
+    }),
+    Animal.create({
+      title: '',
+      description: '',
+      photographer: '',
+      imagePath: 'https://dogtime.com/assets/uploads/gallery/beagle-puppies/beagle-puppy-1.jpg',
+      year: '',
+      category: "beagles",
+      tags: ''
+    }),
+    Animal.create({
+      title: '',
+      description: '',
+      photographer: '',
+      imagePath: 'https://i.pinimg.com/originals/94/90/12/949012e2a0e8bff7f7bb5b3b003d9f45.png',
+      year: '',
+      category: "beagles",
+      tags: ''
+    }),
+    Animal.create({
+      title: '',
+      description: '',
+      photographer: '',
+      imagePath: 'https://www.i-heart-pets.com/wp-content/uploads/2014/08/beagles-goaww.com_.jpg',
+      year: '',
+      category: "beagles",
+      tags: ''
+    }),
+    Animal.create({
+      title: '',
+      description: '',
+      photographer: '',
+      imagePath: 'https://dogtime.com/assets/uploads/gallery/beagle-puppies/beagle-puppy-4.jpg',
+      year: '',
+      category: "beagles",
+      tags: ''
+    }),
+    Animal.create({
+      title: '',
+      description: '',
+      photographer: '',
+      imagePath: 'https://www.i-heart-pets.com/wp-content/uploads/2014/08/beagles-katie-wojo.jpg',
+      year: '',
+      category: "beagles",
+      tags: ''
+    }),
+    Animal.create({
+      title: '',
+      description: '',
+      photographer: '',
+      imagePath: 'https://i.ytimg.com/vi/T14QnZMTPOQ/maxresdefault.jpg',
+      year: '',
+      category: "beagles",
+      tags: ''
+    }),
+    Animal.create({
+      title: '',
+      description: '',
+      photographer: '',
+      imagePath: 'https://i.pinimg.com/originals/87/93/34/879334cf030582d97a479985f64d6a7d.jpg',
       year: '',
       category: "beagles",
       tags: ''
@@ -542,7 +713,7 @@ async function seed() {
       photographer: '',
       imagePath: '',
       year: '',
-      category: "beagles",
+      category: "deer",
       tags: ''
     }),
     Animal.create({
@@ -551,7 +722,7 @@ async function seed() {
       photographer: '',
       imagePath: '',
       year: '',
-      category: "beagles",
+      category: "deer",
       tags: ''
     }),
     Animal.create({
@@ -560,7 +731,7 @@ async function seed() {
       photographer: '',
       imagePath: '',
       year: '',
-      category: "beagles",
+      category: "deer",
       tags: ''
     }),
     Animal.create({
@@ -569,7 +740,7 @@ async function seed() {
       photographer: '',
       imagePath: '',
       year: '',
-      category: "beagles",
+      category: "deer",
       tags: ''
     }),
     Animal.create({
@@ -578,7 +749,7 @@ async function seed() {
       photographer: '',
       imagePath: '',
       year: '',
-      category: "beagles",
+      category: "deer",
       tags: ''
     }),
     Animal.create({
@@ -587,7 +758,7 @@ async function seed() {
       photographer: '',
       imagePath: '',
       year: '',
-      category: "beagles",
+      category: "deer",
       tags: ''
     }),
     Animal.create({
@@ -596,7 +767,7 @@ async function seed() {
       photographer: '',
       imagePath: '',
       year: '',
-      category: "beagles",
+      category: "deer",
       tags: ''
     }),
     Animal.create({
@@ -605,7 +776,7 @@ async function seed() {
       photographer: '',
       imagePath: '',
       year: '',
-      category: "beagles",
+      category: "deer",
       tags: ''
     }),
     Animal.create({
@@ -614,7 +785,7 @@ async function seed() {
       photographer: '',
       imagePath: '',
       year: '',
-      category: "beagles",
+      category: "deer",
       tags: ''
     }),
     Animal.create({
@@ -623,7 +794,7 @@ async function seed() {
       photographer: '',
       imagePath: '',
       year: '',
-      category: "beagles",
+      category: "deer",
       tags: ''
     }),
     Animal.create({
@@ -632,7 +803,7 @@ async function seed() {
       photographer: '',
       imagePath: '',
       year: '',
-      category: "beagles",
+      category: "deer",
       tags: ''
     }),
     Animal.create({
@@ -641,7 +812,7 @@ async function seed() {
       photographer: '',
       imagePath: '',
       year: '',
-      category: "beagles",
+      category: "deer",
       tags: ''
     }),
     Animal.create({
@@ -650,70 +821,7 @@ async function seed() {
       photographer: '',
       imagePath: '',
       year: '',
-      category: "beagles",
-      tags: ''
-    }),
-    Animal.create({
-      title: '',
-      description: '',
-      photographer: '',
-      imagePath: '',
-      year: '',
-      category: "beagles",
-      tags: ''
-    }),
-    Animal.create({
-      title: '',
-      description: '',
-      photographer: '',
-      imagePath: '',
-      year: '',
-      category: "beagles",
-      tags: ''
-    }),
-    Animal.create({
-      title: '',
-      description: '',
-      photographer: '',
-      imagePath: '',
-      year: '',
-      category: "beagles",
-      tags: ''
-    }),
-    Animal.create({
-      title: '',
-      description: '',
-      photographer: '',
-      imagePath: '',
-      year: '',
-      category: "beagles",
-      tags: ''
-    }),
-    Animal.create({
-      title: '',
-      description: '',
-      photographer: '',
-      imagePath: '',
-      year: '',
-      category: "beagles",
-      tags: ''
-    }),
-    Animal.create({
-      title: '',
-      description: '',
-      photographer: '',
-      imagePath: '',
-      year: '',
-      category: "beagles",
-      tags: ''
-    }),
-    Animal.create({
-      title: '',
-      description: '',
-      photographer: '',
-      imagePath: '',
-      year: '',
-      category: "beagles",
+      category: "deer",
       tags: ''
     }),
 
