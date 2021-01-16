@@ -33,4 +33,7 @@ router.get("/random/:id", async (req, res, next) => {
   }
 });
 
+
+//add a put route and a post
+
 module.exports = router;

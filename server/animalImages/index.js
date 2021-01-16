@@ -210,7 +210,7 @@ const bats = {
   6: "https://sire-ngcbg-thumbs.fichub.com/NGP_NatGeo_GS/708/724/NW_DLY_ds1802001-201_baby-fruit-bat-rescue-attempt-animals-vin_op_p181417_UK~~~~~uk~mux~~1.jpg",
 }
 
-const muscrat = {
+const muscrats = {
   1: "https://cdn.mos.cms.futurecdn.net/rdTfmdCQf3VZrhtnDiaTUU-1200-80.jpg",
   2: "https://cdn.britannica.com/33/75633-050-B8C7964E/cross-Muskrats-homes-rat-water-beaver-surface.jpg",
   3: "https://bloximages.newyork1.vip.townnews.com/fredericknewspost.com/content/tncms/assets/v3/editorial/4/d1/4d1621b9-aeb3-515b-87d5-30c00b966267/5dcecf43917b9.image.jpg?resize=1200%2C777",
@@ -220,7 +220,7 @@ const muscrat = {
   7: "https://cdn.britannica.com/78/152578-050-FF987B54/plant-stem.jpg",
 }
 
-const beaver = {
+const beavers = {
   1: "",
   2: "",
   3: "",
@@ -266,4 +266,6 @@ const extra = {
   20: ""
 }
 
-const arrOfAnimalPicsObjects = [elephants, foxes, otters, beagles, aussies, hippos, bears, cats, turtles, bats, muscrat, beaver]
+const arrOfAnimalPicsObjects = [elephants, foxes, otters, beagles, aussies, hippos, bears, cats, turtles, bats, muscrats, beavers]
+
+export default arrOfAnimalPicsObjects
