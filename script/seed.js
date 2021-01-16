@@ -711,7 +711,106 @@ async function seed() {
       title: '',
       description: '',
       photographer: '',
-      imagePath: '',
+      imagePath: 'https://i.redd.it/dvt1agobyg531.jpg',
+      year: '',
+      category: "deer",
+      tags: ''
+    }),
+    Animal.create({
+      title: '',
+      description: '',
+      photographer: '',
+      imagePath: 'https://i.ytimg.com/vi/II0XTUtHghg/maxresdefault.jpg',
+      year: '',
+      category: "deer",
+      tags: ''
+    }),
+    Animal.create({
+      title: '',
+      description: '',
+      photographer: '',
+      imagePath: 'https://i.pinimg.com/originals/e0/26/82/e0268295c6e08a069cacfa989c3aa0e1.jpg',
+      year: '',
+      category: "deer",
+      tags: ''
+    }),
+    Animal.create({
+      title: '',
+      description: '',
+      photographer: '',
+      imagePath: 'https://cdn.images.express.co.uk/img/dynamic/128/590x/baby-deer-puppy-cute-animal-picture-588632.jpg',
+      year: '',
+      category: "deer",
+      tags: ''
+    }),
+    Animal.create({
+      title: '',
+      description: '',
+      photographer: '',
+      imagePath: 'https://i.imgur.com/8uEwG.jpg',
+      year: '',
+      category: "deer",
+      tags: ''
+    }),
+    Animal.create({
+      title: '',
+      description: '',
+      photographer: '',
+      imagePath: 'https://i.redd.it/k8ejmvkktyf21.jpg',
+      year: '',
+      category: "deer",
+      tags: ''
+    }),
+    Animal.create({
+      title: '',
+      description: '',
+      photographer: '',
+      imagePath: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnwxbawTYXOHdw-d_neMWtugL67iIpfJPjMQ&usqp=CAU',
+      year: '',
+      category: "deer",
+      tags: ''
+    }),
+    Animal.create({
+      title: '',
+      description: '',
+      photographer: '',
+      imagePath: 'https://patch.com/img/cdn20/users/22844250/20170310/110915/styles/raw/public/article_images/1-licky_lulu-donna_herrmann-101411-1489162124-7618.jpg',
+      year: '',
+      category: "deer",
+      tags: ''
+    }),
+    Animal.create({
+      title: '',
+      description: '',
+      photographer: '',
+      imagePath: 'https://lh3.googleusercontent.com/proxy/B8L4RpE5lx4MHrmB_H6alLlR6Q_PSxcxrWC31BqTwGTBOJrFUSaZ4llWxrvodrAyy3wzW2gYpSIXUP8YetE62P32F0kopxwLacEg7KGeP51mG-mLeRQSN7vo2qtyQ4bqfrzsK-FaSH-4VBUktdR6Kcv-Axw',
+      year: '',
+      category: "deer",
+      tags: ''
+    }),
+    Animal.create({
+      title: '',
+      description: '',
+      photographer: '',
+      imagePath: 'https://i1.wp.com/metro.co.uk/wp-content/uploads/2015/07/ad_174315907.jpg?quality=90&strip=all&zoom=1&resize=644%2C429&ssl=1',
+      year: '',
+      category: "deer",
+      tags: ''
+    }),
+    Animal.create({
+      title: '',
+      description: '',
+      photographer: '',
+      imagePath: 'https://i.pinimg.com/736x/06/90/9b/06909b762595e564e52a7ea8d24982f9.jpg',
+      year: '',
+      category: "deer",
+      tags: ''
+    }),
+    Animal.create({
+      title: '',
+      description: '',
+      photographer: '',
+      imagePath: 'https://thumbs.newschoolers.com/index.php?src=http%3A%2F%2Fi.imgur.com%2FyuEzh.jpg&size=400x1000',
       year: '',
       category: "deer",
       tags: ''
@@ -722,7 +821,7 @@ async function seed() {
       photographer: '',
       imagePath: '',
       year: '',
-      category: "deer",
+      category: "bears",
       tags: ''
     }),
     Animal.create({
@@ -731,7 +830,7 @@ async function seed() {
       photographer: '',
       imagePath: '',
       year: '',
-      category: "deer",
+      category: "bears",
       tags: ''
     }),
     Animal.create({
@@ -740,7 +839,7 @@ async function seed() {
       photographer: '',
       imagePath: '',
       year: '',
-      category: "deer",
+      category: "bears",
       tags: ''
     }),
     Animal.create({
@@ -749,7 +848,7 @@ async function seed() {
       photographer: '',
       imagePath: '',
       year: '',
-      category: "deer",
+      category: "bears",
       tags: ''
     }),
     Animal.create({
@@ -758,7 +857,7 @@ async function seed() {
       photographer: '',
       imagePath: '',
       year: '',
-      category: "deer",
+      category: "bears",
       tags: ''
     }),
     Animal.create({
@@ -767,7 +866,7 @@ async function seed() {
       photographer: '',
       imagePath: '',
       year: '',
-      category: "deer",
+      category: "bears",
       tags: ''
     }),
     Animal.create({
@@ -776,7 +875,7 @@ async function seed() {
       photographer: '',
       imagePath: '',
       year: '',
-      category: "deer",
+      category: "bears",
       tags: ''
     }),
     Animal.create({
@@ -785,7 +884,7 @@ async function seed() {
       photographer: '',
       imagePath: '',
       year: '',
-      category: "deer",
+      category: "bears",
       tags: ''
     }),
     Animal.create({
@@ -794,7 +893,7 @@ async function seed() {
       photographer: '',
       imagePath: '',
       year: '',
-      category: "deer",
+      category: "bears",
       tags: ''
     }),
     Animal.create({
@@ -803,7 +902,7 @@ async function seed() {
       photographer: '',
       imagePath: '',
       year: '',
-      category: "deer",
+      category: "bears",
       tags: ''
     }),
     Animal.create({
@@ -812,7 +911,7 @@ async function seed() {
       photographer: '',
       imagePath: '',
       year: '',
-      category: "deer",
+      category: "bears",
       tags: ''
     }),
     Animal.create({
@@ -821,7 +920,88 @@ async function seed() {
       photographer: '',
       imagePath: '',
       year: '',
-      category: "deer",
+      category: "bears",
+      tags: ''
+    }),
+    Animal.create({
+      title: '',
+      description: '',
+      photographer: '',
+      imagePath: '',
+      year: '',
+      category: "bears",
+      tags: ''
+    }),
+    Animal.create({
+      title: '',
+      description: '',
+      photographer: '',
+      imagePath: '',
+      year: '',
+      category: "bears",
+      tags: ''
+    }),
+    Animal.create({
+      title: '',
+      description: '',
+      photographer: '',
+      imagePath: '',
+      year: '',
+      category: "bears",
+      tags: ''
+    }),
+    Animal.create({
+      title: '',
+      description: '',
+      photographer: '',
+      imagePath: '',
+      year: '',
+      category: "bears",
+      tags: ''
+    }),
+    Animal.create({
+      title: '',
+      description: '',
+      photographer: '',
+      imagePath: '',
+      year: '',
+      category: "bears",
+      tags: ''
+    }),
+    Animal.create({
+      title: '',
+      description: '',
+      photographer: '',
+      imagePath: '',
+      year: '',
+      category: "bears",
+      tags: ''
+    }),
+    Animal.create({
+      title: '',
+      description: '',
+      photographer: '',
+      imagePath: '',
+      year: '',
+      category: "bears",
+      tags: ''
+    }),
+    Animal.create({
+      title: '',
+      description: '',
+      photographer: '',
+      imagePath: '',
+      year: '',
+      category: "bears",
+      tags: ''
+    }),
+    Animal.create({
+      title: '',
+      description: '',
+      photographer: '',
+      imagePath: '',
+      year: '',
+      category: "bears",
       tags: ''
     }),
 
