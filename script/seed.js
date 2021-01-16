@@ -195,12 +195,525 @@ async function seed() {
       tags: ''
     }),
     Animal.create({
-      title: 'Blue',
+      title: '',
+      description: '',
+      photographer: '',
+      imagePath: 'https://i.ytimg.com/vi/YA7W9ff6X8g/maxresdefault.jpg',
+      year: '',
+      category: "foxes",
+      tags: ''
+    }),
+    Animal.create({
+      title: '',
+      description: '',
+      photographer: '',
+      imagePath: 'https://static.boredpanda.com/blog/wp-content/uploads/2016/05/cute-baby-foxes-cubs-17-574436be67482__880.jpg',
+      year: '',
+      category: "foxes",
+      tags: ''
+    }),
+    Animal.create({
+      title: '',
+      description: '',
+      photographer: '',
+      imagePath: 'https://www.canadiangeographic.ca/sites/cgcorp/files/images/web_articles/blog/1_darla_galley_22441459.jpg',
+      year: '',
+      category: "foxes",
+      tags: ''
+    }),
+    Animal.create({
+      title: '',
+      description: '',
+      photographer: '',
+      imagePath: 'https://static.boredpanda.com/blog/wp-content/uploads/2016/05/cute-baby-foxes-2-574436930d433__880.jpg',
+      year: '',
+      category: "foxes",
+      tags: ''
+    }),
+    Animal.create({
+      title: '',
+      description: '',
+      photographer: '',
+      imagePath: 'https://i.redd.it/3ymbizyaossy.jpg',
+      year: '',
+      category: "foxes",
+      tags: ''
+    }),
+    Animal.create({
+      title: '',
+      description: '',
+      photographer: '',
+      imagePath: 'https://cdn.wallpapersafari.com/95/10/76J0gD.jpg',
+      year: '',
+      category: "foxes",
+      tags: ''
+    }),
+    Animal.create({
+      title: '',
+      description: '',
+      photographer: '',
+      imagePath: 'https://cdn.hswstatic.com/gif/arctic-fox-1.jpg',
+      year: '',
+      category: "foxes",
+      tags: ''
+    }),
+    Animal.create({
+      title: '',
+      description: '',
+      photographer: '',
+      imagePath: 'https://cdn.wallpapersafari.com/1/87/HqGIZS.jpg',
+      year: '',
+      category: "foxes",
+      tags: ''
+    }),
+    Animal.create({
+      title: '',
+      description: '',
+      photographer: '',
+      imagePath: 'https://24.media.tumblr.com/9afdb6ce7e24d9b245c8ff677f70ba19/tumblr_n486fwxIOI1tp0vo3o1_500.jpg',
+      year: '',
+      category: "foxes",
+      tags: ''
+    }),
+    Animal.create({
+      title: '',
+      description: '',
+      photographer: '',
+      imagePath: 'https://wallpapercave.com/wp/wp5461659.jpg',
+      year: '',
+      category: "foxes",
+      tags: ''
+    }),
+    Animal.create({
+      title: '',
+      description: '',
+      photographer: '',
+      imagePath: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_1OwcsnHFrJpe8GTbnQewBoUB3qZGeBfboA&usqp=CAU',
+      year: '',
+      category: "foxes",
+      tags: ''
+    }),
+    Animal.create({
+      title: '',
+      description: '',
+      photographer: '',
+      imagePath: 'https://www.happiest.net/wp-content/uploads/2018/12/arctic-foxes-720x400.jpg',
+      year: '',
+      category: "foxes",
+      tags: ''
+    }),
+    Animal.create({
+      title: '',
+      description: '',
+      photographer: '',
+      imagePath: 'https://i.pinimg.com/originals/aa/6c/89/aa6c893f24d78f5ae063273fbdb2d62e.jpg',
+      year: '',
+      category: "foxes",
+      tags: ''
+    }),
+    Animal.create({
+      title: '',
+      description: '',
+      photographer: '',
+      imagePath: 'https://i.pinimg.com/originals/4a/15/1f/4a151fb32ea95420211afaa9500fef9c.jpg',
+      year: '',
+      category: "foxes",
+      tags: ''
+    }),
+    Animal.create({
+      title: '',
+      description: '',
+      photographer: '',
+      imagePath: 'https://nypost.com/wp-content/uploads/sites/2/2015/06/cute_baby_foxes-1.jpg?quality=80&strip=all&w=1024',
+      year: '',
+      category: "foxes",
+      tags: ''
+    }),
+    Animal.create({
+      title: '',
+      description: '',
+      photographer: '',
+      imagePath: 'https://favogram.com/wp-content/uploads/2015/09/Very-Cute-Baby-Fox-1-500x333.jpg',
+      year: '',
+      category: "foxes",
+      tags: ''
+    }),
+    Animal.create({
+      title: '',
+      description: '',
+      photographer: '',
+      imagePath: 'https://amityisland.files.wordpress.com/2014/11/qtfox.jpg',
+      year: '',
+      category: "foxes",
+      tags: ''
+    }),
+    Animal.create({
+      title: '',
+      description: '',
+      photographer: '',
+      imagePath: 'https://i.ytimg.com/vi/QXtC0jOVZNs/hqdefault.jpg',
+      year: '',
+      category: "otters",
+      tags: ''
+    }),
+    Animal.create({
+      title: '',
+      description: '',
+      photographer: '',
+      imagePath: 'https://static.boredpanda.com/blog/wp-content/uploads/2019/12/cute-baby-sea-otters-36-5e05c4b345ef3__700.jpg',
+      year: '',
+      category: "otters",
+      tags: ''
+    }),
+    Animal.create({
+      title: '',
+      description: '',
+      photographer: '',
+      imagePath: 'https://external-preview.redd.it/0dO9_l_O4UYhlRcb33vQGvKs1BS161cEvmMXTUd8qjo.jpg?auto=webp&s=e5e1fde15bed3ccb51b839c5dda298d229a29dad',
+      year: '',
+      category: "otters",
+      tags: ''
+    }),
+    Animal.create({
+      title: '',
+      description: '',
+      photographer: '',
+      imagePath: 'https://media2.s-nbcnews.com/i/MSNBC/Components/Video/__NEW/tdy_news_otter_151221.jpg',
+      year: '',
+      category: "otters",
+      tags: ''
+    }),
+    Animal.create({
+      title: '',
+      description: '',
+      photographer: '',
+      imagePath: 'https://image.shutterstock.com/image-photo/otter-lutra-her-cuteness-funny-260nw-616296812.jpg',
+      year: '',
+      category: "otters",
+      tags: ''
+    }),
+    Animal.create({
+      title: '',
+      description: '',
+      photographer: '',
+      imagePath: 'https://i.imgur.com/rKiYSnZ.jpg',
+      year: '',
+      category: "otters",
+      tags: ''
+    }),
+    Animal.create({
+      title: '',
+      description: '',
+      photographer: '',
+      imagePath: 'https://www.ngi.org.uk/wp-content/uploads/2016/08/The-four-otters-from-left-Ash-Tod-Pip-and-Sam-Copyright-Ian-Greneholt-830x506.jpg',
+      year: '',
+      category: "otters",
+      tags: ''
+    }),
+    Animal.create({
+      title: '',
+      description: '',
+      photographer: '',
+      imagePath: 'https://www.tehcute.com/pics/201206/help-name-this-cute-baby-otter-big.jpg',
+      year: '',
+      category: "otters",
+      tags: ''
+    }),
+    Animal.create({
+      title: '',
+      description: '',
+      photographer: '',
+      imagePath: 'https://static.boredpanda.com/blog/wp-content/uploads/2019/12/5e04ab9720e95_nrh43dai3hfy__700.jpg',
+      year: '',
+      category: "otters",
+      tags: ''
+    }),
+    Animal.create({
+      title: '',
+      description: '',
+      photographer: '',
+      imagePath: 'https://c8.alamy.com/comp/R8GHJR/baby-otter-R8GHJR.jpg',
+      year: '',
+      category: "otters",
+      tags: ''
+    }),
+    Animal.create({
+      title: '',
+      description: '',
+      photographer: '',
+      imagePath: 'https://www.rd.com/wp-content/uploads/2020/04/GettyImages-74582273.jpg',
+      year: '',
+      category: "otters",
+      tags: ''
+    }),
+    Animal.create({
+      title: '',
+      description: '',
+      photographer: '',
+      imagePath: 'https://i.ytimg.com/vi/b4ELyQQp_yU/maxresdefault.jpg',
+      year: '',
+      category: "otters",
+      tags: ''
+    }),
+    Animal.create({
+      title: '',
+      description: '',
+      photographer: '',
+      imagePath: 'https://static.boredpanda.com/blog/wp-content/uploads/2019/12/cute-baby-sea-otters-26-5e04a9e4eafe0__700.jpg',
+      year: '',
+      category: "otters",
+      tags: ''
+    }),
+    Animal.create({
+      title: '',
+      description: '',
+      photographer: '',
+      imagePath: 'https://pbs.twimg.com/profile_images/869096869/Otter-19_400x400.jpg',
+      year: '',
+      category: "otters",
+      tags: ''
+    }),
+    Animal.create({
+      title: '',
+      description: '',
+      photographer: '',
+      imagePath: 'https://img.scoop.it/l_AqwYXk-p2r-zmeNzWg3Tl72eJkfbmt4t8yenImKBVvK0kTmF0xjctABnaLJIm9',
+      year: '',
+      category: "otters",
+      tags: ''
+    }),
+    Animal.create({
+      title: '',
+      description: '',
+      photographer: '',
+      imagePath: 'https://i.imgur.com/rbJbHFj.png',
+      year: '',
+      category: "otters",
+      tags: ''
+    }),
+    Animal.create({
+      title: '',
+      description: '',
+      photographer: '',
+      imagePath: 'ttps://i.chzbgr.com/full/2879920384/h27FC07C3/pick-me-im-cuuuutttttte',
+      year: '',
+      category: "otters",
+      tags: ''
+    }),
+    Animal.create({
+      title: '',
+      description: '',
+      photographer: '',
+      imagePath: 'https://i.imgur.com/KNntIb4.jpg',
+      year: '',
+      category: "otters",
+      tags: ''
+    }),
+    Animal.create({
+      title: '',
+      description: '',
+      photographer: '',
+      imagePath: 'https://static.boredpanda.com/blog/wp-content/uploads/2019/12/5e04acb6c3639_nxqr111ddqw11__700.jpg',
+      year: '',
+      category: "otters",
+      tags: ''
+    }),
+    Animal.create({
+      title: '',
+      description: '',
+      photographer: '',
+      imagePath: 'https://static.boredpanda.com/blog/wp-content/uploads/2019/12/B2KybtIpVHj-png__700.jpg',
+      year: '',
+      category: "otters",
+      tags: ''
+    }),
+    Animal.create({
+      title: '',
       description: '',
       photographer: '',
       imagePath: '',
       year: '',
-      category: "elephants",
+      category: "beagles",
+      tags: ''
+    }),
+    Animal.create({
+      title: '',
+      description: '',
+      photographer: '',
+      imagePath: '',
+      year: '',
+      category: "beagles",
+      tags: ''
+    }),
+    Animal.create({
+      title: '',
+      description: '',
+      photographer: '',
+      imagePath: '',
+      year: '',
+      category: "beagles",
+      tags: ''
+    }),
+    Animal.create({
+      title: '',
+      description: '',
+      photographer: '',
+      imagePath: '',
+      year: '',
+      category: "beagles",
+      tags: ''
+    }),
+    Animal.create({
+      title: '',
+      description: '',
+      photographer: '',
+      imagePath: '',
+      year: '',
+      category: "beagles",
+      tags: ''
+    }),
+    Animal.create({
+      title: '',
+      description: '',
+      photographer: '',
+      imagePath: '',
+      year: '',
+      category: "beagles",
+      tags: ''
+    }),
+    Animal.create({
+      title: '',
+      description: '',
+      photographer: '',
+      imagePath: '',
+      year: '',
+      category: "beagles",
+      tags: ''
+    }),
+    Animal.create({
+      title: '',
+      description: '',
+      photographer: '',
+      imagePath: '',
+      year: '',
+      category: "beagles",
+      tags: ''
+    }),
+    Animal.create({
+      title: '',
+      description: '',
+      photographer: '',
+      imagePath: '',
+      year: '',
+      category: "beagles",
+      tags: ''
+    }),
+    Animal.create({
+      title: '',
+      description: '',
+      photographer: '',
+      imagePath: '',
+      year: '',
+      category: "beagles",
+      tags: ''
+    }),
+    Animal.create({
+      title: '',
+      description: '',
+      photographer: '',
+      imagePath: '',
+      year: '',
+      category: "beagles",
+      tags: ''
+    }),
+    Animal.create({
+      title: '',
+      description: '',
+      photographer: '',
+      imagePath: '',
+      year: '',
+      category: "beagles",
+      tags: ''
+    }),
+    Animal.create({
+      title: '',
+      description: '',
+      photographer: '',
+      imagePath: '',
+      year: '',
+      category: "beagles",
+      tags: ''
+    }),
+    Animal.create({
+      title: '',
+      description: '',
+      photographer: '',
+      imagePath: '',
+      year: '',
+      category: "beagles",
+      tags: ''
+    }),
+    Animal.create({
+      title: '',
+      description: '',
+      photographer: '',
+      imagePath: '',
+      year: '',
+      category: "beagles",
+      tags: ''
+    }),
+    Animal.create({
+      title: '',
+      description: '',
+      photographer: '',
+      imagePath: '',
+      year: '',
+      category: "beagles",
+      tags: ''
+    }),
+    Animal.create({
+      title: '',
+      description: '',
+      photographer: '',
+      imagePath: '',
+      year: '',
+      category: "beagles",
+      tags: ''
+    }),
+    Animal.create({
+      title: '',
+      description: '',
+      photographer: '',
+      imagePath: '',
+      year: '',
+      category: "beagles",
+      tags: ''
+    }),
+    Animal.create({
+      title: '',
+      description: '',
+      photographer: '',
+      imagePath: '',
+      year: '',
+      category: "beagles",
+      tags: ''
+    }),
+    Animal.create({
+      title: '',
+      description: '',
+      photographer: '',
+      imagePath: '',
+      year: '',
+      category: "beagles",
+      tags: ''
+    }),
+    Animal.create({
+      title: '',
+      description: '',
+      photographer: '',
+      imagePath: '',
+      year: '',
+      category: "beagles",
       tags: ''
     }),
 
