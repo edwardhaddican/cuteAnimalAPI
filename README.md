@@ -3,7 +3,7 @@
 
 
 To run locally:
-Run `npm install` and create a database with `createdb`
+Run `npm install` and create a database with `createdb` called `cuteAnimalsDB`
 
 For development, first run `npm run start-server` and then separately run `npm run start-dev` in a different terminal.
 
