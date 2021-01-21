@@ -1498,7 +1498,8 @@ async function seed() {
       title: "",
       description: "",
       photographer: "",
-      imagePath: "https://static.boredpanda.com/blog/wp-content/uploads/2017/10/adorable-bats-fb18-png__700.jpg",
+      imagePath:
+        "https://static.boredpanda.com/blog/wp-content/uploads/2017/10/adorable-bats-fb18-png__700.jpg",
       year: "",
       category: "bats",
       tags: "",
@@ -1507,7 +1508,8 @@ async function seed() {
       title: "",
       description: "",
       photographer: "",
-      imagePath: "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fstatic.onecms.io%2Fwp-content%2Fuploads%2Fsites%2F20%2F2016%2F10%2Fbaby-bats-wp.jpg&q=85",
+      imagePath:
+        "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fstatic.onecms.io%2Fwp-content%2Fuploads%2Fsites%2F20%2F2016%2F10%2Fbaby-bats-wp.jpg&q=85",
       year: "",
       category: "bats",
       tags: "",
@@ -1525,7 +1527,8 @@ async function seed() {
       title: "",
       description: "",
       photographer: "",
-      imagePath: "https://i.pinimg.com/originals/bc/6f/7f/bc6f7f0b634cbf747857fb3c59cecc96.jpg",
+      imagePath:
+        "https://i.pinimg.com/originals/bc/6f/7f/bc6f7f0b634cbf747857fb3c59cecc96.jpg",
       year: "",
       category: "bats",
       tags: "",
@@ -1534,7 +1537,8 @@ async function seed() {
       title: "",
       description: "",
       photographer: "",
-      imagePath: "https://d1muy2ct2wkbaz.cloudfront.net/profile/f/2/newsflare_dLUJvW6qcX50ka25FcmuShm25V_400.jpg",
+      imagePath:
+        "https://d1muy2ct2wkbaz.cloudfront.net/profile/f/2/newsflare_dLUJvW6qcX50ka25FcmuShm25V_400.jpg",
       year: "",
       category: "bats",
       tags: "",
@@ -1543,7 +1547,8 @@ async function seed() {
       title: "",
       description: "",
       photographer: "",
-      imagePath: "https://sire-ngcbg-thumbs.fichub.com/NGP_NatGeo_GS/708/724/NW_DLY_ds1802001-201_baby-fruit-bat-rescue-attempt-animals-vin_op_p181417_UK~~~~~uk~mux~~1.jpg",
+      imagePath:
+        "https://sire-ngcbg-thumbs.fichub.com/NGP_NatGeo_GS/708/724/NW_DLY_ds1802001-201_baby-fruit-bat-rescue-attempt-animals-vin_op_p181417_UK~~~~~uk~mux~~1.jpg",
       year: "",
       category: "bats",
       tags: "",
@@ -1552,7 +1557,68 @@ async function seed() {
       title: "",
       description: "",
       photographer: "",
-      imagePath: "",
+      imagePath:
+        "https://cdn.mos.cms.futurecdn.net/rdTfmdCQf3VZrhtnDiaTUU-1200-80.jpg",
+      year: "",
+      category: "muscrats",
+      tags: "",
+    }),
+    Animal.create({
+      title: "",
+      description: "",
+      photographer: "",
+      imagePath:
+        "https://cdn.britannica.com/33/75633-050-B8C7964E/cross-Muskrats-homes-rat-water-beaver-surface.jpg",
+      year: "",
+      category: "muscrats",
+      tags: "",
+    }),
+    Animal.create({
+      title: "",
+      description: "",
+      photographer: "",
+      imagePath:
+        "https://bloximages.newyork1.vip.townnews.com/fredericknewspost.com/content/tncms/assets/v3/editorial/4/d1/4d1621b9-aeb3-515b-87d5-30c00b966267/5dcecf43917b9.image.jpg?resize=1200%2C777",
+      year: "",
+      category: "muscrats",
+      tags: "",
+    }),
+    Animal.create({
+      title: "",
+      description: "",
+      photographer: "",
+      imagePath:
+        "https://www.thepondguy.com/images/learning_center/muskrats.jpg",
+      year: "",
+      category: "muscrats",
+      tags: "",
+    }),
+    Animal.create({
+      title: "",
+      description: "",
+      photographer: "",
+      imagePath:
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4k01Yf6nrItUczv2yLsBLWR38RghAUtyDfQ&usqp=CAU",
+      year: "",
+      category: "muscrats",
+      tags: "",
+    }),
+    Animal.create({
+      title: "",
+      description: "",
+      photographer: "",
+      imagePath:
+        "https://www.problemanimal.com/wp-content/uploads/2019/03/IllinoisWildlifeServicesInc-842493890.jpg",
+      year: "",
+      category: "muscrats",
+      tags: "",
+    }),
+    Animal.create({
+      title: "",
+      description: "",
+      photographer: "",
+      imagePath:
+        "https://cdn.britannica.com/78/152578-050-FF987B54/plant-stem.jpg",
       year: "",
       category: "muscrats",
       tags: "",
