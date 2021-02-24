@@ -1,9 +1,9 @@
-# React App Boilerplate
+# Cute Baby Animals
 
 
 
 To run locally:
-Run `npm install` and create a database with `createdb` called `cuteAnimalsDB`
+Run `npm install` and create a database with `createdb` called `cuteBabyAnimalsDB`
 
 For development, first run `npm run start-server` and then separately run `npm run start-dev` in a different terminal.
 

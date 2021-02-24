@@ -1,7 +1,7 @@
 const Sequelize = require("sequelize");
 const db = require("../db");
 
-const Animals = db.define(
+const Animal = db.define(
   "animals",
   {
     title: {
@@ -31,4 +31,4 @@ const Animals = db.define(
   },
 );
 
-module.exports = Animals;
+module.exports = Animal;

@@ -1,13 +1,14 @@
 {
-  "name": "year_one_project",
+  "name": "cute_animal_api",
   "version": "1.0.0",
-  "description": "An small web application for viewing movie details and voting for your favorites.",
+  "description": "An api for cute baby animal pics",
   "main": "index.js",
   "scripts": {
     "start-dev": "NODE_ENV='development' react-scripts start",
     "start": "NODE_ENV='production' npm run build & NODE_ENV='production' npm run start-server",
     "start-server": "nodemon server -e html,js,scss --ignore public --ignore src",
-    "build": "react-scripts build && mv build ./server/public"
+    "build": "react-scripts build && mv build ./server/public",
+    "seed": "node script/seed"
   },
   "keywords": [],
   "author": "",

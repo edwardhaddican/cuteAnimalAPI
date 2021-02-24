@@ -268,4 +268,4 @@ const extra = {
 
 const arrOfAnimalPicsObjects = [elephants, foxes, otters, beagles, aussies, hippos, deer, bears, cats, turtles, bats, muscrats, beavers]
 
-export default arrOfAnimalPicsObjects
+module.exports = arrOfAnimalPicsObjects
