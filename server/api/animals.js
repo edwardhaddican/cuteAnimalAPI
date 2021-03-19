@@ -10,14 +10,40 @@ router.get("/", async (req, res, next) => {
     if (req.query.category) {
       where.category = req.query.category;
     }
-    if(req.query.tags){
-      // console.log(typeof req.query.tags)
+    if (req.query.tags) {
+      const tags = req.query.tags;
+      const tagsArray = tags.split(",");
+
+      console.log("tagsArray", tagsArray)
+
+      // for (let i = 2; i < tags.length; i++) {
+      //   let currentTag = "";
+      //   // if (tags[i] === " ") {
+      //   //   tagsArray.push(currentTag);
+      //   // } else
+      //    if (tags[i] !== " ") {
+      //     if (
+      //       tags[i] !== "[" &&
+      //       tags[i] !== "]" &&
+      //       tags[i] !== "'" &&
+      //       tags[i] !== "," &&
+      //       tags[i] !== ''
+      //     ) {
+      //       currentTag = currentTag + tags[i];
+      //       console.log('currentTag', currentTag)
+      //     }
+      //   }
+      //   tagsArray.push(currentTag);
+      // }
+      // console.log(tags[2]);
+      // console.log(typeof tags);
+      // console.log(tagsArray, "tagsArray");
 
       //we need to turn rew.query.tags into an array of strings
       // then pass it into the where Op.in
       // const tags = JSON.parse(req.query.tags)
-      console.log(tags)
-      console.log(typeof tags)
+      // console.log(tags)
+      // console.log(typeof tags)
       // where.tags = { tags: { include: req.query.tag } }
     }
 
