@@ -1,5 +1,3 @@
-
-
 const elephants = {
   1: "https://i.ytimg.com/vi/OCGGdJIo6jI/hqdefault.jpg",
   2: "https://jodilmilnerauthor.files.wordpress.com/2015/02/l-baby-elephant.jpg",
@@ -20,8 +18,8 @@ const elephants = {
   17: "https://i.pinimg.com/originals/d5/56/2d/d5562db9757dec4c754a53072aec7575.jpg",
   18: "https://www.top13.net/wp-content/uploads/2017/04/adorable-baby-elephants-20.jpg",
   19: "https://media-cdn.tripadvisor.com/media/photo-s/17/56/2f/22/cute-little-baby-elephant.jpg",
-  20: "https://static.boredpanda.com/blog/wp-content/uploads/2017/04/cute-baby-elephants-46-5901f9f5c7eff__700.jpg"
-}
+  20: "https://static.boredpanda.com/blog/wp-content/uploads/2017/04/cute-baby-elephants-46-5901f9f5c7eff__700.jpg",
+};
 
 const foxes = {
   1: "https://i.ytimg.com/vi/YA7W9ff6X8g/maxresdefault.jpg",
@@ -41,7 +39,8 @@ const foxes = {
   15: "https://nypost.com/wp-content/uploads/sites/2/2015/06/cute_baby_foxes-1.jpg?quality=80&strip=all&w=1024",
   16: "https://favogram.com/wp-content/uploads/2015/09/Very-Cute-Baby-Fox-1-500x333.jpg",
   17: "https://amityisland.files.wordpress.com/2014/11/qtfox.jpg",
-}
+  18: "https://cdn.mos.cms.futurecdn.net/fFnYv6gLBY7aAJj2uYpQ6i-1024-80.jpg.webp",
+};
 
 const otters = {
   1: "https://i.ytimg.com/vi/QXtC0jOVZNs/hqdefault.jpg",
@@ -63,8 +62,8 @@ const otters = {
   17: "https://i.chzbgr.com/full/2879920384/h27FC07C3/pick-me-im-cuuuutttttte",
   18: "https://i.imgur.com/KNntIb4.jpg",
   19: "https://static.boredpanda.com/blog/wp-content/uploads/2019/12/5e04acb6c3639_nxqr111ddqw11__700.jpg",
-  20: "https://static.boredpanda.com/blog/wp-content/uploads/2019/12/B2KybtIpVHj-png__700.jpg"
-}
+  20: "https://static.boredpanda.com/blog/wp-content/uploads/2019/12/B2KybtIpVHj-png__700.jpg",
+};
 
 const beagles = {
   1: "https://i.ytimg.com/vi/R__1rgcRvYM/hqdefault.jpg",
@@ -86,8 +85,8 @@ const beagles = {
   17: "https://dogtime.com/assets/uploads/gallery/beagle-puppies/beagle-puppy-4.jpg",
   18: "https://www.i-heart-pets.com/wp-content/uploads/2014/08/beagles-katie-wojo.jpg",
   19: "https://i.ytimg.com/vi/T14QnZMTPOQ/maxresdefault.jpg",
-  20: "https://i.pinimg.com/originals/87/93/34/879334cf030582d97a479985f64d6a7d.jpg"
-}
+  20: "https://i.pinimg.com/originals/87/93/34/879334cf030582d97a479985f64d6a7d.jpg",
+};
 
 const aussies = {
   1: "",
@@ -109,8 +108,8 @@ const aussies = {
   17: "",
   18: "",
   19: "",
-  20: ""
-}
+  20: "",
+};
 
 const deer = {
   1: "https://i.redd.it/dvt1agobyg531.jpg",
@@ -125,7 +124,7 @@ const deer = {
   10: "https://i1.wp.com/metro.co.uk/wp-content/uploads/2015/07/ad_174315907.jpg?quality=90&strip=all&zoom=1&resize=644%2C429&ssl=1",
   11: "https://i.pinimg.com/736x/06/90/9b/06909b762595e564e52a7ea8d24982f9.jpg",
   12: "https://thumbs.newschoolers.com/index.php?src=http%3A%2F%2Fi.imgur.com%2FyuEzh.jpg&size=400x1000",
-}
+};
 
 const bears = {
   1: "https://i.pinimg.com/originals/b6/fb/eb/b6fbebfcb41410e5f2de0bd9d88e741f.jpg",
@@ -147,8 +146,8 @@ const bears = {
   17: "https://qph.fs.quoracdn.net/main-qimg-df90f8c75d5dfa9b6861857290fa3c19.webp",
   18: "https://2.bp.blogspot.com/-xV0RZQMnjhE/T1rWHqnCQWI/AAAAAAAAtUA/akRSEggxokM/s1600/Mother+Bear+-+001.jpg",
   19: "https://i.insider.com/5cdf07ba021b4c1d503ef0c3?width=600&format=jpeg&auto=webp",
-  20: "https://cutewallpaper.org/21/baby-bear-wallpaper/Cute-Baby-Polar-Bear-Wallpaper-Metro-Wallpapers.jpg"
-}
+  20: "https://cutewallpaper.org/21/baby-bear-wallpaper/Cute-Baby-Polar-Bear-Wallpaper-Metro-Wallpapers.jpg",
+};
 
 const hippos = {
   1: "https://static.boredpanda.com/blog/wp-content/uploads/2017/05/cute-baby-hippos-6-590841d1ae669__700.jpg",
@@ -161,7 +160,7 @@ const hippos = {
   8: "https://losangle.com/wp-content/uploads/2019/06/Cute-baby-hippos-8.jpg",
   9: "https://i.rmbl.ws/s8/1/G/O/v/t/GOvta.OvCc.1-small-Cute-Baby-Hippo-Takes-First.jpg",
   10: "https://i.pinimg.com/originals/a5/33/e7/a533e7fd83a1456baf73ca8befde7acf.jpg",
-}
+};
 
 const cats = {
   1: "https://i.pinimg.com/originals/1d/f7/06/1df706ae30095ad907b9046cdaae2db6.jpg",
@@ -183,8 +182,8 @@ const cats = {
   17: "https://purrtacular.com/wp-content/uploads/2017/04/cutest-kittens-17.jpg",
   18: "https://e4p7c9i3.stackpathcdn.com/wp-content/uploads/2017/03/2-12-990x649.jpg?iv=34",
   19: "https://images6.fanpop.com/image/photos/40300000/cute-kittens-cute-kittens-40353229-4096-2466.jpg",
-  20: "https://avante.biz/wp-content/uploads/Cute-Kitten-Pictures-Wallpapers/Cute-Kitten-Pictures-Wallpapers-005.jpg"
-}
+  20: "https://avante.biz/wp-content/uploads/Cute-Kitten-Pictures-Wallpapers/Cute-Kitten-Pictures-Wallpapers-005.jpg",
+};
 
 const turtles = {
   1: "https://i.pinimg.com/originals/5c/a0/f9/5ca0f91de8f240cf690535db7401e76f.jpg",
@@ -199,7 +198,7 @@ const turtles = {
   10: "https://i.pinimg.com/564x/d6/f7/78/d6f7781d66d52c91324139d7ebbbc361.jpg",
   11: "https://cache.desktopnexus.com/thumbseg/1981/1981581-bigthumbnail.jpg",
   12: "https://i.pinimg.com/originals/de/48/32/de4832d464ecc2c7ae9aa4658eac942d.jpg",
-}
+};
 
 const bats = {
   1: "https://static.boredpanda.com/blog/wp-content/uploads/2017/10/adorable-bats-fb18-png__700.jpg",
@@ -208,7 +207,7 @@ const bats = {
   4: "https://i.pinimg.com/originals/bc/6f/7f/bc6f7f0b634cbf747857fb3c59cecc96.jpg",
   5: "https://d1muy2ct2wkbaz.cloudfront.net/profile/f/2/newsflare_dLUJvW6qcX50ka25FcmuShm25V_400.jpg",
   6: "https://sire-ngcbg-thumbs.fichub.com/NGP_NatGeo_GS/708/724/NW_DLY_ds1802001-201_baby-fruit-bat-rescue-attempt-animals-vin_op_p181417_UK~~~~~uk~mux~~1.jpg",
-}
+};
 
 const muscrats = {
   1: "https://cdn.mos.cms.futurecdn.net/rdTfmdCQf3VZrhtnDiaTUU-1200-80.jpg",
@@ -218,7 +217,7 @@ const muscrats = {
   5: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4k01Yf6nrItUczv2yLsBLWR38RghAUtyDfQ&usqp=CAU",
   6: "https://www.problemanimal.com/wp-content/uploads/2019/03/IllinoisWildlifeServicesInc-842493890.jpg",
   7: "https://cdn.britannica.com/78/152578-050-FF987B54/plant-stem.jpg",
-}
+};
 
 const beavers = {
   1: "",
@@ -240,8 +239,8 @@ const beavers = {
   17: "",
   18: "",
   19: "",
-  20: ""
-}
+  20: "",
+};
 
 const extra = {
   1: "",
@@ -263,9 +262,23 @@ const extra = {
   17: "",
   18: "",
   19: "",
-  20: ""
-}
+  20: "",
+};
 
-const arrOfAnimalPicsObjects = [elephants, foxes, otters, beagles, aussies, hippos, deer, bears, cats, turtles, bats, muscrats, beavers]
+const arrOfAnimalPicsObjects = [
+  elephants,
+  foxes,
+  otters,
+  beagles,
+  aussies,
+  hippos,
+  deer,
+  bears,
+  cats,
+  turtles,
+  bats,
+  muscrats,
+  beavers,
+];
 
-module.exports = arrOfAnimalPicsObjects
+module.exports = arrOfAnimalPicsObjects;
