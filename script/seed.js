@@ -2,7 +2,6 @@
 
 const db = require("../server/db");
 const arrOfAnimalPicsObjects = require("../server/animalImages/index");
-console.log("did this work", arrOfAnimalPicsObjects);
 
 const { Animal } = require("../server/db/models");
 
