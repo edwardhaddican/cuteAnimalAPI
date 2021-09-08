@@ -37,9 +37,8 @@ const foxes = {
   13: "https://i.pinimg.com/originals/aa/6c/89/aa6c893f24d78f5ae063273fbdb2d62e.jpg",
   14: "https://i.pinimg.com/originals/4a/15/1f/4a151fb32ea95420211afaa9500fef9c.jpg",
   15: "https://nypost.com/wp-content/uploads/sites/2/2015/06/cute_baby_foxes-1.jpg?quality=80&strip=all&w=1024",
-  16: "https://favogram.com/wp-content/uploads/2015/09/Very-Cute-Baby-Fox-1-500x333.jpg",
-  17: "https://amityisland.files.wordpress.com/2014/11/qtfox.jpg",
-  18: "https://cdn.mos.cms.futurecdn.net/fFnYv6gLBY7aAJj2uYpQ6i-1024-80.jpg.webp",
+  16: "https://amityisland.files.wordpress.com/2014/11/qtfox.jpg",
+  17: "https://cdn.mos.cms.futurecdn.net/fFnYv6gLBY7aAJj2uYpQ6i-1024-80.jpg.webp",
 };
 
 const otters = {
