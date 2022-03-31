@@ -530,16 +530,6 @@ async function seed() {
       title: "",
       description: "",
       photographer: "",
-      imagePath:
-        "ttps://i.chzbgr.com/full/2879920384/h27FC07C3/pick-me-im-cuuuutttttte",
-      year: "",
-      category: "otters",
-      tags: [],
-    }),
-    Animal.create({
-      title: "",
-      description: "",
-      photographer: "",
       imagePath: "https://i.imgur.com/KNntIb4.jpg",
       year: "",
       category: "otters",
@@ -565,15 +555,7 @@ async function seed() {
       category: "otters",
       tags: [],
     }),
-    Animal.create({
-      title: "",
-      description: "",
-      photographer: "",
-      imagePath: 'https://i.ytimg.com/vi/R__1rgcRvYM/hqdefault.jpg"',
-      year: "",
-      category: "beagles",
-      tags: [],
-    }),
+
     Animal.create({
       title: "",
       description: "",
@@ -943,27 +925,7 @@ async function seed() {
       description: "",
       photographer: "",
       imagePath:
-        'https://i.chzbgr.com/full/8166155520/h16081D2E/is-there-berries-for-baby-bear"',
-      year: "",
-      category: "bears",
-      tags: [],
-    }),
-    Animal.create({
-      title: "",
-      description: "",
-      photographer: "",
-      imagePath:
         "https://i.etsystatic.com/10229826/r/il/d9ab1d/1331861745/il_570xN.1331861745_r7wt.jpg",
-      year: "",
-      category: "bears",
-      tags: [],
-    }),
-    Animal.create({
-      title: "",
-      description: "",
-      photographer: "",
-      imagePath:
-        "https://lh3.googleusercontent.com/proxy/Q2fmuynVQ0WnTKTmYD2hM304kZZ6Ci6Y0cXuyvzEQDmN8yXKxLVk28oe8FbzKkTxqWnYao0EGTGy3IRXvXCtYUX7csYCmDXxUX_kpVmTJn_CqRYhizxRV1W5UX87hVqy0-SKAvtVC0DLtbfo5X_oPWoO2bRl6m13kletJf7qKYue1gaaWu77I06gMOZOyrtA",
       year: "",
       category: "bears",
       tags: [],
@@ -984,16 +946,6 @@ async function seed() {
       photographer: "",
       imagePath:
         "https://c4.wallpaperflare.com/wallpaper/607/885/163/adorable-animal-baby-bear-wallpaper-preview.jpg",
-      year: "",
-      category: "bears",
-      tags: [],
-    }),
-    Animal.create({
-      title: "",
-      description: "",
-      photographer: "",
-      imagePath:
-        "https://www.superbearblog.com/uploads/cgblog/id143/article-2105420-11DF6025000005DC-543_964x580.jpg",
       year: "",
       category: "bears",
       tags: [],
@@ -1310,16 +1262,6 @@ async function seed() {
       description: "",
       photographer: "",
       imagePath:
-        "https://lawrenceparkah.com/wp-content/uploads/2012/01/Cute-Kitten-kittens-16123796-1280-800.jpg",
-      year: "",
-      category: "cats",
-      tags: [],
-    }),
-    Animal.create({
-      title: "",
-      description: "",
-      photographer: "",
-      imagePath:
         "https://i.dailymail.co.uk/i/pix/2013/02/21/article-2281982-18258C94000005DC-583_964x590.jpg",
       year: "",
       category: "cats",
@@ -1578,16 +1520,6 @@ async function seed() {
       photographer: "",
       imagePath:
         "https://bloximages.newyork1.vip.townnews.com/fredericknewspost.com/content/tncms/assets/v3/editorial/4/d1/4d1621b9-aeb3-515b-87d5-30c00b966267/5dcecf43917b9.image.jpg?resize=1200%2C777",
-      year: "",
-      category: "muscrats",
-      tags: [],
-    }),
-    Animal.create({
-      title: "",
-      description: "",
-      photographer: "",
-      imagePath:
-        "https://www.thepondguy.com/images/learning_center/muskrats.jpg",
       year: "",
       category: "muscrats",
       tags: [],

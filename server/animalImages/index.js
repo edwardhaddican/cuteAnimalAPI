@@ -58,14 +58,13 @@ const otters = {
   14: "https://pbs.twimg.com/profile_images/869096869/Otter-19_400x400.jpg",
   15: "https://img.scoop.it/l_AqwYXk-p2r-zmeNzWg3Tl72eJkfbmt4t8yenImKBVvK0kTmF0xjctABnaLJIm9",
   16: "https://i.imgur.com/rbJbHFj.png",
-  17: "https://i.chzbgr.com/full/2879920384/h27FC07C3/pick-me-im-cuuuutttttte",
+  17: "https://static.boredpanda.com/blog/wp-content/uploads/2019/12/B2KybtIpVHj-png__700.jpg",
   18: "https://i.imgur.com/KNntIb4.jpg",
   19: "https://static.boredpanda.com/blog/wp-content/uploads/2019/12/5e04acb6c3639_nxqr111ddqw11__700.jpg",
-  20: "https://static.boredpanda.com/blog/wp-content/uploads/2019/12/B2KybtIpVHj-png__700.jpg",
 };
 
 const beagles = {
-  1: "https://i.ytimg.com/vi/R__1rgcRvYM/hqdefault.jpg",
+  1: "https://i.pinimg.com/originals/87/93/34/879334cf030582d97a479985f64d6a7d.jpg",
   2: "https://i.pinimg.com/originals/69/3c/3f/693c3f6d2711e4009fa32115ab51d151.jpg",
   3: "https://i.pinimg.com/originals/a4/2b/b4/a42bb4b30f1fbd8d3afb4409571f6f37.jpg",
   4: "https://40.media.tumblr.com/eea2f882ec08255e40cecaf8ca1d4543/tumblr_nmxjbjIK141qi4ucgo1_500.jpg",
@@ -84,7 +83,6 @@ const beagles = {
   17: "https://dogtime.com/assets/uploads/gallery/beagle-puppies/beagle-puppy-4.jpg",
   18: "https://www.i-heart-pets.com/wp-content/uploads/2014/08/beagles-katie-wojo.jpg",
   19: "https://i.ytimg.com/vi/T14QnZMTPOQ/maxresdefault.jpg",
-  20: "https://i.pinimg.com/originals/87/93/34/879334cf030582d97a479985f64d6a7d.jpg",
 };
 
 const aussies = {
@@ -132,20 +130,19 @@ const bears = {
   4: "https://static.boredpanda.com/blog/wp-content/uploads/2016/02/cute-baby-polar-bear-day-photography-14__880.jpg",
   5: "https://i.pinimg.com/originals/05/f7/52/05f75215c8bd9be9f404b49ab3d72907.jpg",
   6: "https://i.ytimg.com/vi/WknqFHdMXIA/maxresdefault.jpg",
-  7: "https://i.chzbgr.com/full/8166155520/h16081D2E/is-there-berries-for-baby-bear",
+  7: "https://i.insider.com/5cdf07ba021b4c1d503ef0c3?width=600&format=jpeg&auto=webp",
   8: "https://i.etsystatic.com/10229826/r/il/d9ab1d/1331861745/il_570xN.1331861745_r7wt.jpg",
-  9: "https://lh3.googleusercontent.com/proxy/Q2fmuynVQ0WnTKTmYD2hM304kZZ6Ci6Y0cXuyvzEQDmN8yXKxLVk28oe8FbzKkTxqWnYao0EGTGy3IRXvXCtYUX7csYCmDXxUX_kpVmTJn_CqRYhizxRV1W5UX87hVqy0-SKAvtVC0DLtbfo5X_oPWoO2bRl6m13kletJf7qKYue1gaaWu77I06gMOZOyrtA",
+  9: "https://cutewallpaper.org/21/baby-bear-wallpaper/Cute-Baby-Polar-Bear-Wallpaper-Metro-Wallpapers.jpg",
   10: "https://i.pinimg.com/originals/80/73/bb/8073bb8d2ec7940c230829227695c98c.jpg",
   11: "https://c4.wallpaperflare.com/wallpaper/607/885/163/adorable-animal-baby-bear-wallpaper-preview.jpg",
-  12: "https://www.superbearblog.com/uploads/cgblog/id143/article-2105420-11DF6025000005DC-543_964x580.jpg",
+  12: "https://2.bp.blogspot.com/-xV0RZQMnjhE/T1rWHqnCQWI/AAAAAAAAtUA/akRSEggxokM/s1600/Mother+Bear+-+001.jpg",
   13: "https://www.canadiangeographic.ca/sites/cgcorp/files/images/web_articles/blog/bear_derek_kyostia2.jpg",
   14: "https://dnl7t01l0fo05.cloudfront.net/fr/wp-content/uploads/sites/2/2016/09/maman-ours-12.jpg",
   15: "https://i.pinimg.com/originals/7e/82/56/7e8256299e95eee33ed008a08767db08.jpg",
   16: "https://c4.wallpaperflare.com/wallpaper/802/63/832/bear-baby-bear-cute-grass-wallpaper-preview.jpg",
   17: "https://qph.fs.quoracdn.net/main-qimg-df90f8c75d5dfa9b6861857290fa3c19.webp",
-  18: "https://2.bp.blogspot.com/-xV0RZQMnjhE/T1rWHqnCQWI/AAAAAAAAtUA/akRSEggxokM/s1600/Mother+Bear+-+001.jpg",
-  19: "https://i.insider.com/5cdf07ba021b4c1d503ef0c3?width=600&format=jpeg&auto=webp",
-  20: "https://cutewallpaper.org/21/baby-bear-wallpaper/Cute-Baby-Polar-Bear-Wallpaper-Metro-Wallpapers.jpg",
+
+
 };
 
 const hippos = {
@@ -175,13 +172,13 @@ const cats = {
   11: "https://image.shutterstock.com/image-photo/two-cute-kittens-cuddle-each-260nw-738354820.jpg",
   12: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8K44TfCP3wr9nZfCbLLNDAadWeIncuZC1uA&usqp=CAU",
   13: "https://i.pinimg.com/originals/95/63/15/956315eedf40a60820c4b453f6680166.jpg",
-  14: "https://lawrenceparkah.com/wp-content/uploads/2012/01/Cute-Kitten-kittens-16123796-1280-800.jpg",
+  14: "https://avante.biz/wp-content/uploads/Cute-Kitten-Pictures-Wallpapers/Cute-Kitten-Pictures-Wallpapers-005.jpg",
   15: "https://i.dailymail.co.uk/i/pix/2013/02/21/article-2281982-18258C94000005DC-583_964x590.jpg",
   16: "https://cdn.pixabay.com/photo/2017/05/05/22/28/kitten-2288404__340.jpg",
   17: "https://purrtacular.com/wp-content/uploads/2017/04/cutest-kittens-17.jpg",
   18: "https://e4p7c9i3.stackpathcdn.com/wp-content/uploads/2017/03/2-12-990x649.jpg?iv=34",
   19: "https://images6.fanpop.com/image/photos/40300000/cute-kittens-cute-kittens-40353229-4096-2466.jpg",
-  20: "https://avante.biz/wp-content/uploads/Cute-Kitten-Pictures-Wallpapers/Cute-Kitten-Pictures-Wallpapers-005.jpg",
+
 };
 
 const turtles = {
@@ -212,10 +209,9 @@ const muscrats = {
   1: "https://cdn.mos.cms.futurecdn.net/rdTfmdCQf3VZrhtnDiaTUU-1200-80.jpg",
   2: "https://cdn.britannica.com/33/75633-050-B8C7964E/cross-Muskrats-homes-rat-water-beaver-surface.jpg",
   3: "https://bloximages.newyork1.vip.townnews.com/fredericknewspost.com/content/tncms/assets/v3/editorial/4/d1/4d1621b9-aeb3-515b-87d5-30c00b966267/5dcecf43917b9.image.jpg?resize=1200%2C777",
-  4: "https://www.thepondguy.com/images/learning_center/muskrats.jpg",
+  4: "https://cdn.britannica.com/78/152578-050-FF987B54/plant-stem.jpg",
   5: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4k01Yf6nrItUczv2yLsBLWR38RghAUtyDfQ&usqp=CAU",
   6: "https://www.problemanimal.com/wp-content/uploads/2019/03/IllinoisWildlifeServicesInc-842493890.jpg",
-  7: "https://cdn.britannica.com/78/152578-050-FF987B54/plant-stem.jpg",
 };
 
 const beavers = {
