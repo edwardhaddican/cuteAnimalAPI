@@ -183,7 +183,7 @@ const cats = {
 
 const turtles = {
   1: "https://i.pinimg.com/originals/5c/a0/f9/5ca0f91de8f240cf690535db7401e76f.jpg",
-  2: "https://drscdn.500px.org/photo/47773906/m%3D900/v2?sig=502c0a42a045f7cf961fcf803ef470526f2ace03c842c63a7ee27dc6e48828f0",
+  2: "https://i.pinimg.com/originals/de/48/32/de4832d464ecc2c7ae9aa4658eac942d.jpg",
   3: "https://petorb.com/wp-content/uploads/2014/06/yaaaaa.jpg",
   4: "https://s1.dmcdn.net/v/OZSZU1RbKn61Uxs7y/x720",
   5: "https://ww2.kqed.org/science/wp-content/uploads/sites/35/2016/01/Baby_turtle_swims.jpg",
@@ -193,7 +193,6 @@ const turtles = {
   9: "https://drscdn.500px.org/photo/4171562/m%3D900/v2?sig=3fb433c331c79fe98b8cb468391ed13aa3cbee85d7106c4320bb08296cddb0ca",
   10: "https://i.pinimg.com/564x/d6/f7/78/d6f7781d66d52c91324139d7ebbbc361.jpg",
   11: "https://cache.desktopnexus.com/thumbseg/1981/1981581-bigthumbnail.jpg",
-  12: "https://i.pinimg.com/originals/de/48/32/de4832d464ecc2c7ae9aa4658eac942d.jpg",
 };
 
 const bats = {

@@ -1331,16 +1331,6 @@ async function seed() {
       title: "",
       description: "",
       photographer: "",
-      imagePath:
-        "https://drscdn.500px.org/photo/47773906/m%3D900/v2?sig=502c0a42a045f7cf961fcf803ef470526f2ace03c842c63a7ee27dc6e48828f0",
-      year: "",
-      category: "turtles",
-      tags: [],
-    }),
-    Animal.create({
-      title: "",
-      description: "",
-      photographer: "",
       imagePath: "https://petorb.com/wp-content/uploads/2014/06/yaaaaa.jpg",
       year: "",
       category: "turtles",
